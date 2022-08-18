@@ -1,0 +1,5 @@
+# Dot files and folders
+.*
+
+# Exclude .gitignore
+!.gitignore
